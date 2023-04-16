@@ -1,2 +1,1 @@
-# yoda
-Yoda
+#Animación yodi no reponsive
